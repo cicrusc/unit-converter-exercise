@@ -10,6 +10,7 @@ A simple Kotlin-based unit converter that supports conversions between **Length*
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/unit-converter-exercise.git
+   ```
 
 2. **Compile the Kotlin code**:
    ```bash
@@ -34,6 +35,6 @@ A simple Kotlin-based unit converter that supports conversions between **Length*
 
 5. **Exit**:
    Type `exit` to quit the program.
-```
+
 
 Enjoy!
